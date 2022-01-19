@@ -20,9 +20,6 @@ Os dados de vendas têm o formato id 003 . Dentro da linha de vendas, existe a l
 de itens, que é envolto por colchetes []. A linha terá o seguinte formato.
 003çSale IDç[Item ID-Item Quantity-Item Price]çSalesman name
 
-# Dados de Exemplo
-O seguinte é um exemplo dos dados que o sistema deve ser capaz de ler.
-
 
 
 # Dados de Exemplo
